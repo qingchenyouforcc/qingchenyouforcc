@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![:qingchenyouforcc](https://count.getloli.com/get/@:qingchenyouforcc?theme=gelbooru)
+![:qingchenyouforcc](https://count.getloli.com/@:qingchenyouforcc?theme=gelbooru)
 
 <div align="center">
   <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=qingchenyouforcc&theme=dark&count_private=true" />
