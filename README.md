@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there is Qing Chenyou/Luda👋
+#### A student studying CS、IOT、AI and CTF
 
 ![:qingchenyouforcc](https://count.getloli.com/@:qingchenyouforcc?theme=gelbooru)
 
