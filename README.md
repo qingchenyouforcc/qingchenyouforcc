@@ -5,7 +5,7 @@
 
 ## Stats:
 <div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
-<p><img src="https://github-status.kndxhz.cn/api?username=qingchenyouforcc&count_private=true&card_width=500" /></p>
+<p><img src="https://stats.xiaoyuan151.net/api?username=qingchenyouforcc&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" /></p>
 </div>
 
 <div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
