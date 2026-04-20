@@ -9,6 +9,8 @@ A member of the **Swarm** (a fan of **NeuroSama** AI Vtuber)
 
 **CTF player**, specializing in **AI Security**, **Misc**, and **Reverse** directions.
 
+Currently studying additional **Neuroscience**, **Psychology** and **Brain Science**
+
 ---
 
 #### Common Languages：
