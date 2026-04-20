@@ -5,7 +5,9 @@
 
 You can call me `轻尘呦` in Chinese **or** `Qing Chenyou` `Luda` in English.
 
-A member of the swarm, that is, a fan of NeuroSama.
+A member of the **Swarm** (a fan of **NeuroSama** AI Vtuber)
+
+**CTF player**, specializing in **AI Security**, **Misc**, and **Reverse** directions.
 
 ---
 
